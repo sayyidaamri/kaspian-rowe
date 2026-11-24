@@ -1,8 +1,8 @@
-# KASPIAN.ROWE — portfolio (native HTML clone)
+# KASPIAN.ROWE — portfolio (native HTML)
 
 <p align="center"><img src="docs/preview/homepage.gif" alt="Homepage preview — full-page scroll" width="100%"></p>
 
-A 1:1 rebuild of the look and behaviour of christendijoux.com as an original site for a fictional
+An original site for a fictional
 systems & AI engineer, **Kaspian Rowe** (monogram **KR**, Bergen, Norway). Plain HTML/CSS/JS, no framework,
 no build step needed to view it.
 
